@@ -6,9 +6,11 @@ To run the sketch locally, open `index.html` in Google Chrome. No additional set
 
 ## Assets
 
-| `assets\cool dolphin.jpg` [1] | https://pin.it/6Oi6yTmWP |
-| `assets\cool door.png` [2] | https://www.pngegg.com/en/png-yzruf |
-| `assets\cool pointer.png` [3] | https://pngimg.com/image/92623 |
+| File                          | Source                              |
+| ----------------------------- | ----------------------------------- |
+| `assets\cool dolphin.jpg` [1] | https://pin.it/6Oi6yTmWP            |
+| `assets\cool door.png` [2]    | https://www.pngegg.com/en/png-yzruf |
+| `assets\cool pointer.png` [3] | https://pngimg.com/image/92623      |
 
 ## References
 
